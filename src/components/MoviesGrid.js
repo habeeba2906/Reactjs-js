@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import '../styles.css';
 import MovieCard from "./MovieCard";
 
+//Some Changes
+
 export default function MoviesGrid({ movies, watchlist, toggleWatchlist }){
 
     
